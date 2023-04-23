@@ -1,5 +1,5 @@
 # import required libraries
-import App as st
+import streamlit as st
 import pandas as pd
 import seaborn as sns
 
