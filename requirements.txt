@@ -1,0 +1,6 @@
+numpy>=1.23.2
+matplotlib>=3.6.0
+pandas==1.5.0
+seabord==0.12.2
+streamlit==1.21.0
+
